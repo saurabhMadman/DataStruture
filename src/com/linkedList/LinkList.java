@@ -1,7 +1,7 @@
 package com.linkedList;
 
 import java.util.Scanner;
-
+//Single LinkList Creation and Display them
 public class LinkList {
 
     /*
