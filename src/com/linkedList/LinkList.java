@@ -68,7 +68,5 @@ public class LinkList {
 
             scanner.close();
         }
-
-
     }
-    }
+}
