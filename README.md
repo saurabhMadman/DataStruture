@@ -1,6 +1,7 @@
 All The Liner Data Struture All The Code is Java
 
-WhaT Linear Data Struture Is?
+What Linear Data Struture Is?
+
 A data structure with homogeneous elements is linear if it organizes its elements 
 into a sequence. In a computer, each data structure is fInite in terms of the number
 of its elements. A linear data structure has a fust and a last element. Each of the
